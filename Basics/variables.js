@@ -35,6 +35,3 @@ let currentVisitor = "John";
 
 
 
-
-
-
